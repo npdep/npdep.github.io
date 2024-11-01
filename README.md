@@ -18,4 +18,4 @@ NPDEP is designed to:
 
 For more information please have a look at the following topics:
 
-- [Architecture](../architecture.md)
+- [Architecture](./docs/architecture.md)
