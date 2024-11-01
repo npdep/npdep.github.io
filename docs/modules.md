@@ -1,3 +1,3 @@
-# NPDEP Modules
+# Modules
 
 [Back](../README.md).
