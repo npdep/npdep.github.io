@@ -1,0 +1,5 @@
+remote_theme: pages-themes/minimal@v0.2.0
+logo: https://avatars.githubusercontent.com/u/183926505
+plugins:
+- jekyll-remote-theme
+- jekyll-seo-tag
